@@ -70,8 +70,10 @@ ul{
 
 .logo-container img {
     
-    width: auto;
+      
+    width: 250px;
     object-fit: contain;
+    margin-left: 90px;
 }
 
 .logo {
